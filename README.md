@@ -1,6 +1,6 @@
-# hft-system
+# Modular Trading System
 # Project Description
-Building a High-Frequency Trading (HFT) System using Python
+Building a Modular Trading System using Python
 
 # Project Work
 All project work will be compiled in this Github Repo
@@ -11,40 +11,26 @@ Charlie Ray
 Noor Dhaliwal
 
 # Overview
-This project's objective is to create a Python-based High-Frequency Trading (HFT) system that integrates real-time data and a statistical model to make informed trades. The system should leverage the "cpquant" library and be designed in a modular way, allowing for easy swapping of statistical models like building blocks. The final deliverable is technical documentation explaining the system's inner workings and architecture, which is distinct from the user-facing "cpquant" library documentation.
+This project's objective is to create a Python-based modular trading system (MDS) that integrates real-time data and a statistical model to make informed trades. The system should leverage the "cpquant" library and be designed in a modular way, allowing for easy swapping of statistical models like building blocks. The final deliverable is technical documentation explaining the system's inner workings and architecture, which is distinct from the user-facing "cpquant" library documentation.
 
 # Objectives
-Design and implement an HFT system capable of receiving and processing real-time data.
+Design and implement an MDS system capable of receiving and processing real-time data.
 
-Enable the HFT system to apply statistical models to inform trading decisions.
+Enable the MDS system to apply statistical models to inform trading decisions.
 
-Integrate the "cpquant" library into the HFT system for data handling and quantitative analysis.
+Integrate the "cpquant" library into the MDS system for data handling and quantitative analysis.
 
 Construct the system in a modular fashion to allow statistical models to be easily swapped.
 
 Write detailed technical documentation explaining how the system operates, its architecture, and how to incorporate and swap statistical models.
 
 # Deliverables
-A Python-based HFT system that uses real-time data and statistical models to make trading decisions.
+A Python-based MDs system that uses real-time data and statistical models to make trading decisions.
 
 Comprehensive technical documentation describing the system's functionality and architecture.
 
 # Methodology
-The project should commence with a deep understanding of HFT systems and the requirements of handling real-time data. Once the foundation is laid, the system can be designed to incorporate statistical models and to utilize the "cpquant" library for data handling. The system should be modular, allowing statistical models to be easily added or removed. Throughout the process, the team should document the technical aspects of the system, leading to a comprehensive technical documentation.
-
-# Timeline
-Weeks 1-2: Research and understand the requirements and architecture of HFT systems.
-
-Weeks 3-4: Design the initial structure of the HFT system.
-
-Weeks 5-6: Incorporate the "cpquant" library into the HFT system and ensure it can handle real-time data.
-
-Weeks 7-8: Implement the functionality to add and swap statistical models.
-
-Weeks 9-10: Draft, review, and finalize the technical documentation.
-
-# Roles and Responsibilities
-The team can be divided into roles such as System Architects, Real-Time Data Specialists, Model Integration Developers, and Technical Writers.
+The project should commence with a deep understanding of MDS systems and the requirements of handling real-time data. Once the foundation is laid, the system can be designed to incorporate statistical models and to utilize the "cpquant" library for data handling. The system should be modular, allowing statistical models to be easily added or removed. Throughout the process, the team should document the technical aspects of the system, leading to a comprehensive technical documentation.
 
 # Resources
 [High-Frequency Trading Systems and Networks](https://towardsdatascience.com/assembling-an-entry-level-high-frequency-trading-hft-system-e7538545b2a9)
