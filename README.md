@@ -8,8 +8,6 @@ All project work will be compiled in this Github Repo
 # Project Members:
 Charlie Ray
 
-Noor Dhaliwal
-
 # Overview
 This project's objective is to create a Python-based modular trading system (MDS) that integrates real-time data and a statistical model to make informed trades. The system should leverage the "cpquant" library and be designed in a modular way, allowing for easy swapping of statistical models like building blocks. The final deliverable is technical documentation explaining the system's inner workings and architecture, which is distinct from the user-facing "cpquant" library documentation.
 
