@@ -1,1 +1,1 @@
-print("hft system")
+print("hf")
